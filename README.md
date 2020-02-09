@@ -6,7 +6,8 @@ In this repository, my experiences in studying machine learning are written step
 ---
 
 ## **Index:**
-    * 
+
+    + 
     *
     *
     * Other useful links
