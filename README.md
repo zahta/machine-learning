@@ -1,6 +1,6 @@
 
 ---
 ```
-In this repository, my experiences in studying machine learning are written, step by step. 
+In this repository, my experiences in studying machine learning are written step by step. 
 ```
 ---
