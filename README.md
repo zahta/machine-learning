@@ -6,8 +6,7 @@ In this repository, my experiences in studying machine learning are written step
 ---
 
 ## **Index:**
-
-    - 
+    * Anaconda installation
     *
     *
     * Other useful links
