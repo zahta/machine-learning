@@ -20,5 +20,5 @@
      
 ### :star: Other useful links
 
-   - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning)
-   - GitHub: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science)
+   - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
+   - GitHub: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
