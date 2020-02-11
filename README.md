@@ -29,7 +29,8 @@
             5) `conda list -n envname` or `conda list`, to see a list of all packages installed in a specific environment "envname". 
             6) `conda list -n envname pkgname`, to see if a specific package "pkgname" is installed in an environment "envname".
             7) `conda install --revision=0` or `conda install --rev 0`, to restore environment to the default version.
-            
+            8) `conda remove --name envname --all`, to remove the environment "envname".
+
 ### :star: Other useful links
 
    - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
