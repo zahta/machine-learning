@@ -17,15 +17,15 @@
      1. **Anaconda Prompt:** From the Start menu, search for and open "Anaconda Prompt". 
      2. **Windows`conda create --name envname` Command Prompt:** From the Start menu, search for and open "cmd". 
         - When I typed `conda --version` in the Command Prompt, I encountered `conda is not recognized as an internal or external command,
-          operable program or batch file`. This issue was resolved by **Method 3** of this helpful [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
+          operable program or batch file`. This issue was resolved by **Method 3** of this [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
    - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
-      1) To create an environment with the name "envname", type one of the following commands in Anaconda prompt or cmd.
-          - `conda create --name envname`     
-            or     
-          - `conda create -n envname`
-      2) When conda asks `proceed ([y]/n)?` type `y`.
-      3) To activate the environment "envname", type `conda activate`. 
-          - `conda activate` and `conda deactivate` only work on conda 4.6 and later versions. 
+       - Some useful command lines:
+            1) `conda create --name envname` or `conda create -n envname`, to create an environment with the name "envname".
+                - Create seperate environments to keep your programs isolated from each other.
+            2) `conda activate envname`, to activate the environment "envname".
+            3) `conda info --env`, to see a list of all your environments (The active environment is with an asterisk (*)).
+            4) `conda deactivate`, to deactivate environment.
+                - `conda activate` and `conda deactivate` only work on conda 4.6 and later versions. 
 
 ### :star: Other useful links
 
