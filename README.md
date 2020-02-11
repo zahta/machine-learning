@@ -19,8 +19,7 @@
         - When I typed `conda --version` in the Command Prompt, I encountered `conda is not recognized as an internal or external command,
           operable program or batch file`. This issue was resolved by **Method 3** of this helpful [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
    - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
-          
-
+      1) To create an environment, type `conda create --name envname` or `conda create -n envname` in Anaconda prompt or cmd.
      
 ### :star: Other useful links
 
