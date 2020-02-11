@@ -11,8 +11,12 @@
      
      By typing `conda --version` in a terminal command line verify that 
      conda is installed properly on your system (Conda displays the number of the version that you have installed).
-     1. **Anaconda prompt:** From the Start menu, search for and open "Anaconda Prompt". 
-     2. **Windows Command prompt:** From the Start menu, search for and open "cmd". 
+     1. **Anaconda Prompt:** From the Start menu, search for and open "Anaconda Prompt". 
+     2. **Windows Command Prompt:** From the Start menu, search for and open "cmd". 
+        - When I typed `conda --version` in the Command Prompt, I encountered `conda is not recognized as an internal or external command,
+          operable program or batch file`. This issue was resolved by Method 3 of this helpful [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
+          
+
      
 ### :star: Other useful links
 
