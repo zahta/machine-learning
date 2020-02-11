@@ -23,10 +23,13 @@
             1) `conda create --name envname` or `conda create -n envname`, to create an environment with the name "envname".
                 - Create seperate environments to keep your programs isolated from each other.
             2) `conda activate envname`, to activate the environment "envname".
-            3) `conda info --env`, to see a list of all your environments (The active environment is with an asterisk (*)).
+            3) `conda info --envs`, to see a list of all your environments (The active environment is with an asterisk (*)).
             4) `conda deactivate`, to deactivate environment.
                 - `conda activate` and `conda deactivate` only work on conda 4.6 and later versions. 
-
+            5) `conda list -n envname` or `conda list`, to see a list of all packages installed in a specific environment "envname". 
+            6) `conda list -n envname pkgname`, to see if a specific package "pkgname" is installed in an environment "envname".
+            7) `conda install --revision=0` or `conda install --rev 0`, to restore environment to the default version.
+            
 ### :star: Other useful links
 
    - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
