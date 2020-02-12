@@ -20,7 +20,7 @@
   - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
      - Some useful command lines:
      
-       :one:`conda create --name envname` or `conda create -n envname` :arrow_right: Create an environment with the name "envname".
+       :one:`conda create --name envname` or `conda create -n envname` :arrow_right: Create the environment "envname".
               
      
        :two: `conda activate envname`:arrow_right: Activate the environment "envname".
@@ -31,7 +31,7 @@
          
        :five: `conda list -n envname` or `conda list`:arrow_right: A list of all packages installed in the environment "envname". 
      
-       :six: `conda list -n envname pkgname`:arrow_right: To see if the package "pkgname" is installed in the environment "envname".
+       :six: `conda list -n envname pkgname`:arrow_right: To see if the package "pkgname" is installed in "envname".
      
        :seven: `conda install --revision=0` or `conda install --rev 0`:arrow_right: Restore active environment to the default version.
     
