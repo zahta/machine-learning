@@ -3,33 +3,39 @@
 ---
 
 ### :star: Anaconda
-   - [Installation](https://docs.anaconda.com/anaconda/install/)
-     - [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
-       - I had an issue with Anaconda installation on windows 7, `Failed to create Anaconda menus`. With the help of an [answer](https://stackoverflow.com/a/57635204/12777699) from <a href="https://stackoverflow.com/questions/tagged/python"><img  src=https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png width="90"/>
+  - [Installation](https://docs.anaconda.com/anaconda/install/)
+    - [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
+      - I had an issue with Anaconda installation on windows 7, `Failed to create Anaconda menus`. With the help of an [answer](https://stackoverflow.com/a/57635204/12777699) from <a href="https://stackoverflow.com/questions/tagged/python"><img  src=https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png width="90"/>
 </a>, version 2019.03 of Anaconda (from [download archive](https://repo.continuum.io/archive/)) successfully installed.
-   - [Conda (Starting and managing)](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#getting-started-with-conda) 
-     
-     By typing `conda --version` in a terminal command line verify that 
-     conda is installed properly on your system (Conda displays the number of the version that you have installed). 
-     
-     By typing `conda update conda` and then `y` (if needed) in a terminal command line, update conda to the current version.
+  - [Conda (Starting and managing)](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#getting-started-with-conda) 
+   
+    :one: `conda --version` (in a terminal command line) :arrow_right: Conda version number (if it is installed properly).
+    
+    :two: `conda update conda` and then `y` (if needed) :arrow_right: Update conda to the current version.
 
-     1. **Anaconda Prompt:** From the Start menu, search for and open "Anaconda Prompt". 
-     2. **Windows`conda create --name envname` Command Prompt:** From the Start menu, search for and open "cmd". 
+    - **Anaconda Prompt:** :one: Start menu :two: search for and open "Anaconda Prompt". 
+    - **Windows Command Prompt:** :one: Start menu :two: search for and open "cmd". 
         - When I typed `conda --version` in the Command Prompt, I encountered `conda is not recognized as an internal or external command,
           operable program or batch file`. This issue was resolved by **Method 3** of this [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
-   - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
-       - Some useful command lines:
-            1) `conda create --name envname` or `conda create -n envname`, to create an environment with the name "envname".
-                - Create seperate environments to keep your programs isolated from each other.
-            2) `conda activate envname`, to activate the environment "envname".
-            3) `conda info --envs`, to see a list of all your environments (The active environment is with an asterisk (*)).
-            4) `conda deactivate`, to deactivate environment.
-                - `conda activate` and `conda deactivate` only work on conda 4.6 and later versions. 
-            5) `conda list -n envname` or `conda list`, to see a list of all packages installed in a specific environment "envname". 
-            6) `conda list -n envname pkgname`, to see if a specific package "pkgname" is installed in an environment "envname".
-            7) `conda install --revision=0` or `conda install --rev 0`, to restore environment to the default version.
-            8) `conda remove --name envname --all`, to remove the environment "envname".
+  - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
+     - Some useful command lines:
+     
+       :one:`conda create --name envname` or `conda create -n envname` :arrow_right: Create an environment with the name "envname".
+              
+     
+       :two: `conda activate envname`:arrow_right: Activate the environment "envname".
+     
+       :three: `conda info --envs`:arrow_right: A list of all your environments (active environment with an asterisk (*)).
+     
+       :four: `conda deactivate` :arrow_right: Deactivate environment.
+         
+       :five: `conda list -n envname` or `conda list`:arrow_right: A list of all packages installed in the environment "envname". 
+     
+       :six: `conda list -n envname pkgname`:arrow_right: To see if the package "pkgname" is installed in the environment "envname".
+     
+       :seven: `conda install --revision=0` or `conda install --rev 0`:arrow_right: Restore active environment to the default version.
+    
+       :eight: `conda remove --name envname --all`:arrow_right: Remove the environment "envname".
 
 ### :star: Other useful links
 
