@@ -37,6 +37,9 @@
     
        :eight: `conda remove --name envname --all`:arrow_right: Remove the environment "envname".
 
+### :star: Git
+   - [Installation](https://git-scm.com/downloads)
+   
 ### :star: Other useful links
 
    - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
