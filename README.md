@@ -39,8 +39,11 @@
 
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
+   - [Documentation](https://git-scm.com/doc)
+   - [Videos (in Persian): Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Azimi
+   - Videos (in English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
    
 ### :star: Other useful links
 
-   - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
    - GitHub: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
+   - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
