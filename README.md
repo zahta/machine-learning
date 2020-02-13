@@ -40,6 +40,8 @@
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
    - [Documentation](https://git-scm.com/doc)
+   - [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
+   - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
    - [Videos (in Persian): Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Azimi
    - Videos (in English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
    
