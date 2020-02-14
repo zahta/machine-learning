@@ -36,6 +36,7 @@
        :seven: `conda install --revision=0` or `conda install --rev 0`:arrow_right: Restore active environment to the default version.
     
        :eight: `conda remove --name envname --all`:arrow_right: Remove the environment "envname".
+     - [Conda cheat sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
 
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
