@@ -37,6 +37,13 @@
     
        :eight: `conda remove --name envname --all`:arrow_right: Remove the environment "envname".
      - [Conda cheat sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
+  - Python and Jupyter Lab
+     
+     - Python Installation (by a terminal command line): Type `conda install python=vnumber` to install version "vnumber" of Python in the active environment.
+
+     - Jupyter Lab Installation (by a terminal command line): Type `conda install jupyterlab` to install Jupyter Lab in the active environment.
+     
+     - Use `conda jupyter lab` to open Jupyter Lab.
 
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
