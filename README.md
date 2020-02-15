@@ -27,15 +27,17 @@
      
        :three: `conda info --envs`:arrow_right: A list of all your environments (active environment with an asterisk (*)).
      
-       :four: `conda deactivate` :arrow_right: Deactivate environment.
+       :four: `conda install pkgname` :arrow_right: Install the package "pkgname" in the active environment.
          
-       :five: `conda list -n envname` or `conda list`:arrow_right: A list of all packages installed in the environment "envname". 
+       :five: `conda list -n envname` or `conda list`:arrow_right: A list of all packages installed in the active environment. 
      
        :six: `conda list -n envname pkgname`:arrow_right: To see if the package "pkgname" is installed in "envname".
      
        :seven: `conda install --revision=0` or `conda install --rev 0`:arrow_right: Restore active environment to the default version.
     
-       :eight: `conda remove --name envname --all`:arrow_right: Remove the environment "envname".
+       :eight: `conda deactivate` :arrow_right: Deactivate environment.
+
+       :nine: `conda remove --name envname --all`:arrow_right: Remove the environment "envname".
      - [Conda cheat sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
   - Python and Jupyter Lab
      
@@ -43,7 +45,9 @@
 
      - Jupyter Lab Installation (by a terminal command line): Type `conda install jupyterlab` to install Jupyter Lab in the active environment.
      
-     - Use `conda jupyter lab` to open Jupyter Lab.
+     - Use `conda jupyter lab` to start Jupyter Lab.
+
+     - [Installing the IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
 
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
