@@ -18,7 +18,7 @@
         - When I typed `conda --version` in the Command Prompt, I encountered `conda is not recognized as an internal or external command,
           operable program or batch file`. This issue was resolved by **Method 3** of this [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
   - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
-     - Some useful command lines:
+     - Some useful terminal commands:
      
        :one:`conda create --name envname` or `conda create -n envname` :arrow_right: Create the environment "envname".
               
@@ -48,7 +48,7 @@
      - Use `conda jupyter lab` to start Jupyter Lab.
 
      - [Installing the IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
-	    - command line: `python -m ipykernel install --user --name envname --display-name "Python (envname)"`
+	    - Terminal command: `python -m ipykernel install --user --name envname --display-name "Python (envname)"`
 		
   - [conda-forge](https://conda-forge.org/docs/user/introduction.html)
   
