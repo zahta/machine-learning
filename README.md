@@ -48,7 +48,10 @@
      - Use `conda jupyter lab` to start Jupyter Lab.
 
      - [Installing the IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
-
+	    - command line: `python -m ipykernel install --user --name envname --display-name "Python (envname)"`
+		
+  - [conda-forge](https://conda-forge.org/docs/user/introduction.html)
+  
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
    - [Documentation](https://git-scm.com/doc)
