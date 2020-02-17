@@ -64,3 +64,8 @@
 
    - GitHub: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
    - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
+
+   
+### :star: Some interesting papers:
+
+   - [Machine Learning: A Primer](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1)
