@@ -66,6 +66,6 @@
    - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
 
    
-### :star: Some interesting papers:
+### :star: Some interesting articles:
 
    - [Machine Learning: A Primer](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1)
