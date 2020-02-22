@@ -52,6 +52,9 @@
 		
   - [conda-forge](https://conda-forge.org/docs/user/introduction.html)
   
+### :star: Markdown
+   - 
+  
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
    - [Documentation](https://git-scm.com/doc)
