@@ -45,15 +45,22 @@
 
      - Jupyter Lab Installation (by a terminal command line): Type `conda install jupyterlab` to install Jupyter Lab in the active environment.
      
-     - Use `conda jupyter lab` to start Jupyter Lab.
+     - Use `jupyter lab` to start Jupyter Lab.
 
      - [Installing the IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
 	    - Terminal command: `python -m ipykernel install --user --name envname --display-name "Python (envname)"`
 		
   - [conda-forge](https://conda-forge.org/docs/user/introduction.html)
   
+     - installing packages from conda-forge:
+		
+	    - `conda config --add channels conda-forge` :arrow_right: Register the conda-forge channel as a package source for conda
+			
+	    - `conda config --set channel_priority strict` :arrow_right: Activate the strict channel priority.
+  
 ### :star: Markdown
-   - 
+   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
+   - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
   
 ### :star: Git
    - [Installation](https://git-scm.com/downloads)
@@ -63,6 +70,10 @@
    - [Videos (Persian): Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi
    - Videos (English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
    
+### :star: Books
+   - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
+   - [Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow 2](https://github.com/ageron/handson-ml2) by Aurélien Geron
+
 ### :star: Other useful links
 
    - GitHub: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
