@@ -83,3 +83,4 @@
 ### :star: Some interesting articles:
 
    - [Machine Learning: A Primer](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1) by Lizzie Turner
+   - [Time Series Analysis](https://towardsdatascience.com/time-series-analysis-with-theory-plots-and-code-part-2-c72b447da634)
