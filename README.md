@@ -1,6 +1,11 @@
 ---
 #### :four_leaf_clover: I am studying *Data science*. In this repository, I am going to write about my experiences in studying *Machine learning*, with a step by step approach. :four_leaf_clover:
 ---
+| [What Is Machine Learning?](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)                                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :green_book: Machine Learning is the science (and art) of programming computers so they can learn from data.                                                                                                                                                          |
+| :blue_book: A slightly more general definition: Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed (Arthur Samuel-1959)                                                              |
+| :orange_book: A more engineering-oriented one:  A computer program is said to learn from experience E  with respect to some task T  and some performance measure  P, if its performance on  T, as measured by  P, improves with experience  E (Tom Mitchell-1997) |
 
 ### :star: Anaconda
   - [Installation](https://docs.anaconda.com/anaconda/install/)
