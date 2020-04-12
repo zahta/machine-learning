@@ -10,9 +10,9 @@
 ### :star: Anaconda
   - [Installation](https://docs.anaconda.com/anaconda/install/)
     - [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
-      - I had an issue with Anaconda installation on windows 7, `Failed to create Anaconda menus`. With the help of an [answer](https://stackoverflow.com/a/57635204/12777699) from <a href="https://stackoverflow.com/questions/tagged/python"><img  src=https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png width="90"/>
+      - I had an issue with Anaconda installation on Windows 7, `Failed to create Anaconda menus`. With the help of an [answer](https://stackoverflow.com/a/57635204/12777699) from <a href="https://stackoverflow.com/questions/tagged/python"><img  src=https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png width="90"/>
 </a>, version 2019.03 of Anaconda (from [download archive](https://repo.continuum.io/archive/)) successfully installed.
-      - After installing Anaconda, I encountered other problems such as crashing Windows. That's why I finally decided to install Windows 10.
+      - After installing Anaconda on Windows 7, I encountered other problems such as crashing Windows. That's why I finally decided to install Windows 10.
 
   - [Conda (Starting and managing)](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#getting-started-with-conda) 
    
