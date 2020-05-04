@@ -65,6 +65,8 @@
 			
 	    - `conda config --set channel_priority strict` :arrow_right: Activate the strict channel priority.
   
+### :star: Python
+   - [Python Cheat Sheet](https://media-exp1.licdn.com/dms/document/C561FAQEq2uuJ0kmRMA/feedshare-document-pdf-analyzed/0?e=1588680000&v=beta&t=3Z7nUlSZU7HYyWtdYop-H9WZfxlqOF1Ub-SueuuJ1Dk)
 ### :star: Markdown
    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
    - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
