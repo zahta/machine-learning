@@ -59,7 +59,7 @@
 		
   - [conda-forge](https://conda-forge.org/docs/user/introduction.html)
   
-     - installing packages from conda-forge:
+     - Installing packages from conda-forge:
 		
 	    - `conda config --add channels conda-forge` :arrow_right: Register the conda-forge channel as a package source for conda
 			
@@ -67,6 +67,19 @@
   
 ### :star: Python
    - [Python Cheat Sheet](https://media-exp1.licdn.com/dms/document/C561FAQEq2uuJ0kmRMA/feedshare-document-pdf-analyzed/0?e=1588680000&v=beta&t=3Z7nUlSZU7HYyWtdYop-H9WZfxlqOF1Ub-SueuuJ1Dk)
+   
+   - **Installation of python libraries:**
+   	 - **Installing libraries with the command `conda install "libname"`:**
+	 
+	 	Some libraries could not be installed with the above command line. Then, you can either do `pip install 
+		"libname"` or download the source and install that manually as follows.
+	 
+  	 - **Installing libraries manually:**
+   
+   		Download the source file of the library containing the file `setup.py` :arrow_right: Launch the anaconda prompt and 
+		navigate to the folder that contains the extracted downloaded files , e.g. with the command `cd /d d:\anaconda3\tflearn-
+		master`  :arrow_right: Run `python setup.py install`
+
 ### :star: Markdown
    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
    - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
