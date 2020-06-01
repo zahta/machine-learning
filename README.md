@@ -77,7 +77,7 @@
   	 - **Installing libraries manually:**
    
    		Download the source file of the library containing the file `setup.py` :arrow_right: Launch the anaconda prompt and 
-		navigate to the folder that contains the extracted downloaded files , e.g. with the command `cd /d d:\anaconda3\tflearn-
+		navigate to the folder that contains the extracted downloaded files , e.g., with the command `cd /d d:\anaconda3\tflearn-
 		master`  :arrow_right: Run `python setup.py install`
 
 ### :star: Markdown
