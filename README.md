@@ -104,5 +104,4 @@
    
 ### :star: Some interesting articles:
 
-   - [Machine Learning: A Primer](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1) by Lizzie Turner
-   - [Time Series Analysis](https://towardsdatascience.com/time-series-analysis-with-theory-plots-and-code-part-2-c72b447da634) by Dimitris Effrosynidis
+   - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
