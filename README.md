@@ -1,5 +1,5 @@
 ---
-#### :four_leaf_clover: I am studying *Data science*. In this repository, I am going to write about my experiences in studying *Machine learning*, with a step by step approach. :four_leaf_clover:
+#### :four_leaf_clover:  I am studying *Data science*. In this repository, I am going to write about my experiences in studying *Machine learning*, with a step by step approach. :four_leaf_clover:
 ---
 | [What Is Machine Learning?](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch01.html)                                                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7,7 +7,7 @@
 | :blue_book: A slightly more general definition: Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed (Arthur Samuel-1959)                                                              |
 | :orange_book: A more engineering-oriented one:  A computer program is said to learn from experience E  with respect to some task T  and some performance measure  P, if its performance on  T, as measured by  P, improves with experience  E (Tom Mitchell-1997) |
 
-### :star: Anaconda
+### :star:  Anaconda
   - [Installation](https://docs.anaconda.com/anaconda/install/)
     - [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
       - I had an issue with Anaconda installation on Windows 7, `Failed to create Anaconda menus`. With the help of an [answer](https://stackoverflow.com/a/57635204/12777699) from <a href="https://stackoverflow.com/questions/tagged/python"><img  src=https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png width="90"/>
@@ -65,7 +65,7 @@
 			
 	    - `conda config --set channel_priority strict` :arrow_right: Activate the strict channel priority.
   
-### :star: Python
+### :star:  Python
    - [Python Cheat Sheet](https://media-exp1.licdn.com/dms/document/C561FAQEq2uuJ0kmRMA/feedshare-document-pdf-analyzed/0?e=1588680000&v=beta&t=3Z7nUlSZU7HYyWtdYop-H9WZfxlqOF1Ub-SueuuJ1Dk)
    
    - **Installation of python libraries:**
@@ -80,11 +80,11 @@
 		navigate to the folder that contains the extracted downloaded files , e.g., with the command `cd /d d:\anaconda3\tflearn-
 		master`  :arrow_right: Run `python setup.py install`
 
-### :star: Markdown
+### :star:  Markdown
    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
    - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
   
-### :star: Git
+### :star:  Git
    - [Installation](https://git-scm.com/downloads)
    - [Documentation](https://git-scm.com/doc)
    - [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
@@ -92,16 +92,16 @@
    - Videos (Persian): [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi
    - Videos (English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
    
-### :star: Books
+### :star:  Books
    - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
    - [Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow 2](https://github.com/ageron/handson-ml2) by Aurélien Geron
 
-### :star: Other useful links
+### :star:  Other useful links
 
    - GitHub: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
    - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
 
    
-### :star: Some interesting articles:
+### :star:  Some interesting articles:
 
    - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
