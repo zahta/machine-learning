@@ -1,5 +1,5 @@
 ---
-#### :four_leaf_clover:  I am studying *Data science*. In this repository, I am going to write about my experiences in studying *Machine learning*, with a step by step approach. :four_leaf_clover:
+#### :four_leaf_clover:   I am studying *Data science*. In this repository, I am going to write about my experiences in studying *Machine learning*, with a step by step approach. :four_leaf_clover:
 ---
 | [What Is Machine Learning?](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch01.html)                                                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
