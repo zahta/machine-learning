@@ -87,7 +87,7 @@
 
 ### :star:  Colab
    - [What is Colaboratory?](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
-   - [To prevent Google Colab from disconnecting](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): Open developer-settings in your web-browser with `Ctrl+Shift+I` :arrow_right: Click on console tab  :arrow_right:  Type **one** of the following code blocks in the console prompt:
+   - [To prevent Google Colab from disconnecting](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): Open developer settings in your web browser with `Ctrl+Shift+I` :arrow_right: Click on console tab  :arrow_right:  Type **one** of the following code blocks in the console prompt:
   	 ```javascript 
   	  function ClickConnect(){
 		console.log("Working"); 
