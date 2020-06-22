@@ -85,6 +85,23 @@
 		navigate to the folder that contains the extracted downloaded files , e.g., with the command `cd /d d:\anaconda3\tflearn-
 		master`  :arrow_right: Run `python setup.py install`
 
+### :star:  Colab
+   - [What is Colaboratory?](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
+   - [To prevent Google Colab from disconnecting](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index):
+   Open developer-settings in your web-browser with `Ctrl+Shift+I` :arrow_right: Click on console tab  :arrow_right:  Type **one** of the following code blocks in the console prompt:
+   ```javascript 
+    function ClickConnect(){
+	console.log("Working"); 
+	document.querySelector("colab-toolbar-button#connect").click() 
+	}setInterval(ClickConnect,60000)
+   ```
+   ```javascript 
+   function ClickConnect(){
+	console.log("Working"); 
+	document.querySelector("colab-toolbar-button").click() 
+	}setInterval(ClickConnect,60000)
+   ```
+   
 ### :star:  Markdown
    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
    - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
@@ -111,4 +128,3 @@
 
    - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
    - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
-   - [How to prevent Google Colab from disconnecting ?](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0#:~:text=So%20to%20prevent%20this%20just,Then%20goto%20console.&text=It%20would%20keep%20on%20clicking%20the%20page%20and%20prevent%20it%20from%20disconnecting.) by ShIvam Rawat
