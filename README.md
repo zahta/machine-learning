@@ -121,3 +121,12 @@
 
    - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
    - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
+   
+ ### :star:  Good resources for finding datasets:
+
+   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+   - [Kaggle](https://www.kaggle.com/datasets)
+   - [Elite data science](https://elitedatascience.com/datasets)
+   - [Dataset search](https://datasetsearch.research.google.com/)
+   
+   
