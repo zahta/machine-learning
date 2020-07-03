@@ -71,7 +71,7 @@
 	    - `conda config --set channel_priority strict` :arrow_right: Activate the strict channel priority.
   
 ### :star:  Python
-   - [Python Cheat Sheet](https://media-exp1.licdn.com/dms/document/C561FAQEq2uuJ0kmRMA/feedshare-document-pdf-analyzed/0?e=1588680000&v=beta&t=3Z7nUlSZU7HYyWtdYop-H9WZfxlqOF1Ub-SueuuJ1Dk)
+   - [**Python Cheat Sheet**](https://media-exp1.licdn.com/dms/document/C561FAQEq2uuJ0kmRMA/feedshare-document-pdf-analyzed/0?e=1588680000&v=beta&t=3Z7nUlSZU7HYyWtdYop-H9WZfxlqOF1Ub-SueuuJ1Dk)
    
    - **Installation of python libraries:**
    	 - **Installing libraries with the command `conda install "libname"`:**
@@ -87,9 +87,10 @@
 
 ### :star:  Colab
    - [**What is Colaboratory?**](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
+
    - **A good approach to import local datasets into the Colab:**
    
-   		:one: Compress the the dataset's folder, e.i., as a `zip` file :two: Upload the compressed file to your Google drive :three: Mount your Google drive into the 			colab :four: Unzip the compressed file in Colab.
+   		:one: Compress the dataset's folder, e.i., as a `zip` file :two: Upload the compressed file to your Google drive :three: Mount your Google drive into the 			colab :four: Unzip the compressed file in Colab.
 	
    - [**To prevent Google Colab from disconnecting**](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): 
    
