@@ -86,10 +86,10 @@
 		master`  :arrow_right: Run `python setup.py install`
 
 ### :star:  Colab
-   - [What is Colaboratory?](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
-   - A good approach to import local datasets into the Colab:
+   - [**What is Colaboratory?**](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
+   - **A good approach to import local datasets into the Colab:**
    	:one: Compress the the dataset's folder, e.i., as a `zip` file :two: Upload the compressed file to your Google drive :three: Mount your Google drive into the colab :four: Unzip the compressed file in Colab.
-   - [To prevent Google Colab from disconnecting](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): Open developer settings in your web browser with `Ctrl+Shift+I` :arrow_right: Click on console tab  :arrow_right:  Type the following code block in the console prompt:
+   - [**To prevent Google Colab from disconnecting**](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): Open developer settings in your web browser with `Ctrl+Shift+I` :arrow_right: Click on console tab  :arrow_right:  Type the following code block in the console prompt:
   	 ```javascript 
    	    function ClickConnect(){
 		console.log("Working"); 
