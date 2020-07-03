@@ -93,6 +93,9 @@
 	
    - [**To prevent Google Colab from disconnecting**](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): 
    
+    	> Google Colab notebooks have an idle timeout of 90 minutes and absolute timeout of 12 hours. This means, if user does not interact with his Google Colab notebook for more than 90 minutes,
+                   its instance is automatically terminated. Also, maximum lifetime of a Colab instance is 12 hours.
+		
    		Open developer settings in your web browser with `Ctrl+Shift+I` :arrow_right: Click on console tab  :arrow_right:  Type the following code block in the console prompt:
   	 ```javascript 
    	    function ClickConnect(){
