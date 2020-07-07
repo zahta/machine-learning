@@ -71,8 +71,9 @@
 	    - `conda config --set channel_priority strict` :arrow_right: Activate the strict channel priority.
   
 ### :star:  Python
-   - [**Python Cheat Sheet**](https://media-exp1.licdn.com/dms/document/C561FAQEq2uuJ0kmRMA/feedshare-document-pdf-analyzed/0?e=1588680000&v=beta&t=3Z7nUlSZU7HYyWtdYop-H9WZfxlqOF1Ub-SueuuJ1Dk)
-   
+   - [**Python Cheat Sheet-1**](https://media-exp1.licdn.com/dms/document/C561FAQEq2uuJ0kmRMA/feedshare-document-pdf-analyzed/0?e=1588680000&v=beta&t=3Z7nUlSZU7HYyWtdYop-H9WZfxlqOF1Ub-SueuuJ1Dk)
+   - [**Python Cheat Sheet-2**](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
+
    - **Installation of python libraries:**
    	 - **Installing libraries with the command `conda install "libname"`:**
 	 
