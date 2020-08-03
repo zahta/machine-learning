@@ -1,10 +1,8 @@
 
-
 ---
-#### :four_leaf_clover:   My Path to Machine Learning :four_leaf_clover:
-
-:bulb: *Do not follow where the path may lead. Go instead where there is no path and  leave  a trail. `Ralph Waldo Emerson`*
-
+| :four_leaf_clover:   My Path to Machine Learning :four_leaf_clover:                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :bulb: *Do not follow where the path may lead. Go instead where there is no path and  leave  a trail. `Ralph Waldo Emerson`*                                                                                                                                                          |
 ---
 | [What Is Machine Learning?](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch01.html)                                                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
