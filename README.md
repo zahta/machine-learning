@@ -122,17 +122,17 @@
 
 ### :star:  Other useful links
 
-   - GitHub: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
-   - GitHub: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
+   - GitHub Repository: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
+   - GitHub Repository: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
 
    
-### :star:  Some interesting articles:
+### :star:  Some interesting articles
 
    - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
    - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
    - [5 Data Science Projects That Will Get You Hired in 2020](https://www.dataoptimal.com/data-science-projects-2018/)
    
- ### :star:  Good resources for finding datasets:
+ ### :star:  Good resources for finding datasets
 
    - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
    - [Kaggle](https://www.kaggle.com/datasets)
