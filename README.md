@@ -120,7 +120,7 @@
    - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
    - [Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow 2](https://github.com/ageron/handson-ml2) by Aurélien Geron
 
-### :star: Some good resources
+### :star: Other good resources
 
 - Free online ebook: [Forecasting: principles and practice](https://otexts.com/fpp2/) by Rob J Hyndman, and George Athanasopoulos
 
