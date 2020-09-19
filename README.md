@@ -123,6 +123,7 @@
 ### :star: Other good resources
 
 - Free online ebook: [Forecasting: principles and practice](https://otexts.com/fpp2/) by Rob J Hyndman, and George Athanasopoulos
+- Brief visual explanations of machine learning concepts with diagrams: [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
 ### :star:  Other useful links
 
