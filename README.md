@@ -134,6 +134,7 @@
 ### :star:  Some interesting articles
 
    - [20 Best Machine Learning Books for Beginner & Experts in 2020](https://hackr.io/blog/best-machine-learning-books)
+   - [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.)
    - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
    - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
    - [5 Data Science Projects That Will Get You Hired in 2020](https://www.dataoptimal.com/data-science-projects-2018/)
