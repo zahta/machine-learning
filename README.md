@@ -70,7 +70,7 @@
 	    - `conda config --set channel_priority strict` :arrow_right: Activate the strict channel priority.
   
 ### :star:  Python
-   - GitHub Repository: [** Practical Python**](https://github.com/dabeaz-course/practical-python)
+   - GitHub Repository: [**Practical Python**](https://github.com/dabeaz-course/practical-python)
    - [**Python Cheat Sheet**](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
 
    - **Installation of python libraries:**
