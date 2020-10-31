@@ -125,6 +125,7 @@
 
 - Free online ebook: [Forecasting: principles and practice](https://otexts.com/fpp2/) by Rob J Hyndman, and George Athanasopoulos
 - Brief visual explanations of machine learning concepts with diagrams: [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
 
 ### :star:  Other useful links
 
