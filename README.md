@@ -95,10 +95,10 @@
    - **A good approach to unzip dataset files from Google drive into the content folder in colab:**
    
    		```
-   			import os
-   			if not os.path.exists("/content/dataset"):
-   		            print("unzip files!")
-   			      !unzip -q "/content/drive/My Drive/dataset.zip"
+   		import os
+   		if not os.path.exists("/content/dataset"):
+   		  print("unzip files!")
+   	      !unzip -q "/content/drive/My Drive/dataset.zip"
    		```
 
    - [**To prevent Google Colab from disconnecting**](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): 
