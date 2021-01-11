@@ -93,13 +93,14 @@
    		:one: Compress the dataset, i.e., as a `zip` file :two: Upload the compressed file to your Google drive :three: Mount your Google drive into the colab :four: Unzip the compressed file in Colab.
 
    - **A good approach to unzip dataset files from google drive to content folder in colab:**
-      - When dataset is one file:
-   ```
-   import os
-   if os.path.exists("/content/data.csv")==False:
-   print("unzip files!")
-   !unzip -q "/content/drive/My Drive/data.zip"
-   ```
+   
+   		```
+   			import os
+   			if os.path.exists("/content/dataset")==False:
+   		            print("unzip files!")
+   			    !unzip -q "/content/drive/My Drive/dataset.zip"
+   		```
+
    - [**To prevent Google Colab from disconnecting**](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): 
    
     	> Google Colab notebooks have an idle timeout of 90 minutes and absolute timeout of 12 hours. This means, if user does not interact with his Google Colab notebook for more than 90 minutes,
