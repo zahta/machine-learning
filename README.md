@@ -92,13 +92,13 @@
    
    		:one: Compress the dataset, i.e., as a `zip` file :two: Upload the compressed file to your Google drive :three: Mount your Google drive into the colab :four: Unzip the compressed file in Colab.
 
-   - **A good approach to unzip dataset files from google drive to content folder in colab:**
+   - **A good approach to unzip dataset files from Google drive into the content folder in colab:**
    
    		```
    			import os
-   			if os.path.exists("/content/dataset")==False:
+   			if not os.path.exists("/content/dataset"):
    		            print("unzip files!")
-   			    !unzip -q "/content/drive/My Drive/dataset.zip"
+   			      !unzip -q "/content/drive/My Drive/dataset.zip"
    		```
 
    - [**To prevent Google Colab from disconnecting**](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): 
