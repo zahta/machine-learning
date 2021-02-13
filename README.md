@@ -72,6 +72,8 @@
 ### :star:  Python
    - GitHub Repository: [**Practical Python**](https://github.com/dabeaz-course/practical-python)
    - [**Python Cheat Sheet**](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
+   - [**Python Cheat Sheet-Complete**](https://zerotomastery.io/cheatsheets/python-cheat-sheet?utm_source=github&utm_medium=ztm-python-cheat-sheet)
+   
 
    - **Installation of python libraries:**
    	 - **Installing libraries with the command `conda install "libname"`:**
