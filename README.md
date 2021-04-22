@@ -144,7 +144,7 @@
    - GitHub Repository: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
 
    
-### :star:  Some interesting articles
+### :star:  Some interesting blogs
 
    - [20 Best Machine Learning Books for Beginner & Experts in 2020](https://hackr.io/blog/best-machine-learning-books)
    - [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.)
@@ -153,6 +153,10 @@
    - [5 Data Science Projects That Will Get You Hired in 2020](https://www.dataoptimal.com/data-science-projects-2018/)
    - [5 free resources every data scientist should start using today](https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/) by Yitaek Hwang
    - [Seaborn Heatmaps: 13 Ways to Customize Correlation Matrix Visualizations](https://heartbeat.fritz.ai/seaborn-heatmaps-13-ways-to-customize-correlation-matrix-visualizations-f1c49c816f07) by Okoh Anita
+   - [Breaking the curse of small datasets in Machine Learning: Part 1](https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d) by Jyoti Prakash Maheswari
+      - [Breaking the curse of small datasets in Machine Learning: Part 2](https://towardsdatascience.com/breaking-the-curse-of-small-data-sets-in-machine-learning-part-2-894aa45277f4) by Jyoti Prakash Maheswari
+      - [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/)
+
 
  ### :star:  Good resources for finding datasets
 
