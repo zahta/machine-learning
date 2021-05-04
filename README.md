@@ -158,8 +158,9 @@
    - [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/)
 
    - Train, Validation and Test Sets in Machine Learning:
-   	- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
-   	- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
+   
+ 		- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
+   		- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
    	
 
 
