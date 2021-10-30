@@ -161,7 +161,13 @@
 
    - GitHub Repository: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
    - GitHub Repository: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
+   	
+### :star:  Good resources for finding datasets
 
+   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+   - [Kaggle](https://www.kaggle.com/datasets)
+   - [Elite data science](https://elitedatascience.com/datasets)
+   - [Dataset search](https://datasetsearch.research.google.com/)
    
 ### :star:  Some interesting blog posts
 
@@ -180,14 +186,5 @@
    
  		- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
    		- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
-   	
-
-
- ### :star:  Good resources for finding datasets
-
-   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-   - [Kaggle](https://www.kaggle.com/datasets)
-   - [Elite data science](https://elitedatascience.com/datasets)
-   - [Dataset search](https://datasetsearch.research.google.com/)
    
    
