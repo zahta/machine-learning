@@ -12,11 +12,21 @@
 | :orange_book: A more engineering-oriented one:  A computer program is said to learn from experience E  with respect to some task T  and some performance measure  P, if its performance on  T, as measured by  P, improves with experience  E (Tom Mitchell-1997) |
 
 ### :star:  Anaconda
-  - [Installation](https://docs.anaconda.com/anaconda/install/)
-    - [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
-      - I had an issue with Anaconda installation on Windows 7, `Failed to create Anaconda menus`. With the help of an [answer](https://stackoverflow.com/a/57635204/12777699) from <a href="https://stackoverflow.com/questions/tagged/python"><img  src=https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png width="90"/>
-</a>, version 2019.03 of Anaconda (from [download archive](https://repo.continuum.io/archive/)) successfully installed.
-      - After installing Anaconda on Windows 7, I encountered other problems such as crashing Windows. That's why I finally decided to install Windows 10.
+  - [Anaconda Installation](https://docs.anaconda.com/anaconda/install/)
+  - [How to Install Anaconda on Ubuntu 20.04](https://linuxize.com/post/how-to-install-anaconda-on-ubuntu-20-04/)
+  
+  - Install Miniconda3 on Linux:
+  	* Download the latest shell script:
+
+			wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+	* Make the miniconda installation script executable:
+
+			chmod +x Miniconda3-latest-Linux-x86_64.sh
+
+	* Run miniconda installation script:
+
+			./Miniconda3-latest-Linux-x86_64.sh
 
   - [Conda (Starting and managing)](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#getting-started-with-conda) 
    
@@ -49,7 +59,16 @@
        :eight: `conda deactivate` :arrow_right: Deactivate environment.
 
        :nine: `conda remove --name envname --all`:arrow_right: Remove the environment "envname".
+       
+      - If you encontered the Error 403 while `conda update conda` or `conda create -n envname`:
+      
+			conda config --add channels conda-canary
+			conda config --remove channels defaults
+        
+    	or refer to [Troubleshooting (403 Error)](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/?highlight=403#error).      
+
      - [Conda cheat sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
+     
   - Python and Jupyter Lab
      
      - Python Installation (by a terminal command line): Type `conda install python=vnumber` to install version "vnumber" of Python in the active environment.
