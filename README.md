@@ -100,8 +100,8 @@
     
     :two: `conda update conda` and then `y` (if needed) :arrow_right: Update conda to the current version.
 
-    - **Anaconda Prompt:** :one: Start menu :two: search for and open "Anaconda Prompt". 
-    - **Windows Command Prompt:** :one: Start menu :two: search for and open "cmd". 
+    - Anaconda Prompt: :one: Start menu :two: search for and open "Anaconda Prompt". 
+    - Windows Command Prompt: :one: Start menu :two: search for and open "cmd". 
         - When I typed `conda --version` in the Command Prompt, I encountered `conda is not recognized as an internal or external command,
           operable program or batch file`. This issue was resolved by *Method 3* of this [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
   - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
