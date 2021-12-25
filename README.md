@@ -77,7 +77,7 @@
 
 # :pencil2: Notes and Experiences
 
-### :star:  Anaconda
+* **Anaconda:**
   - [Anaconda Installation](https://docs.anaconda.com/anaconda/install/)
   - [How to Install Anaconda on Ubuntu 20.04](https://linuxize.com/post/how-to-install-anaconda-on-ubuntu-20-04/)
   
@@ -103,7 +103,7 @@
     - **Anaconda Prompt:** :one: Start menu :two: search for and open "Anaconda Prompt". 
     - **Windows Command Prompt:** :one: Start menu :two: search for and open "cmd". 
         - When I typed `conda --version` in the Command Prompt, I encountered `conda is not recognized as an internal or external command,
-          operable program or batch file`. This issue was resolved by **Method 3** of this [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
+          operable program or batch file`. This issue was resolved by *Method 3* of this [page](https://appuals.com/fix-conda-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/).
   - [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)
      - Some useful terminal commands:
      
@@ -154,14 +154,14 @@
 			
 	    - `conda config --set channel_priority strict` :arrow_right: Activate the strict channel priority.
   
-### :star:  Python
-   - GitHub Repository: [**Practical Python**](https://github.com/dabeaz-course/practical-python)
-   - [**Python Cheat Sheet**](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
-   - [**Python Cheat Sheet-Complete**](https://zerotomastery.io/cheatsheets/python-cheat-sheet?utm_source=github&utm_medium=ztm-python-cheat-sheet)
+* **Python:**
+   - GitHub Repository: [Practical Python](https://github.com/dabeaz-course/practical-python)
+   - [Python Cheat Sheet](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
+   - [Python Cheat Sheet-Complete](https://zerotomastery.io/cheatsheets/python-cheat-sheet?utm_source=github&utm_medium=ztm-python-cheat-sheet)
    
 
-   - **Installation of python libraries:**
-   	 - **Installing libraries with the command `conda install "libname"`:**
+   - Installation of python libraries:
+   	 - Installing libraries with the command `conda install "libname"`:
 	 
 	 	Some libraries could not be installed with the above command line. Then, you can either do `pip install 
 		"libname"` or download the source and install that manually as follows.
@@ -172,14 +172,14 @@
 		navigate to the folder that contains the extracted downloaded files , e.g., with the command `cd /d d:\anaconda3\tflearn-
 		master`  :arrow_right: Run `python setup.py install`
 
-### :star:  Colab
-   - [**What is Colaboratory?**](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
+* **Colab:**
+   - [What is Colaboratory?](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
 
-   - **A good approach to import local datasets into the Colab:**
+   - A good approach to import local datasets into the Colab:
    
    		:one: Compress the dataset, i.e., as a `zip` file :two: Upload the compressed file to your Google drive :three: Mount your Google drive into the colab :four: Unzip the compressed file in Colab.
 
-   - **A good approach to unzip dataset files from Google drive into the content folder in colab:**
+   - A good approach to unzip dataset files from Google drive into the content folder in colab:
    
    		```
    		import os
@@ -188,7 +188,7 @@
    	      !unzip -q "/content/drive/My Drive/dataset.zip"
    		```
 
-   - [**To prevent Google Colab from disconnecting**](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): 
+   - [To prevent Google Colab from disconnecting](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index): 
    
     	> Google Colab notebooks have an idle timeout of 90 minutes and absolute timeout of 12 hours. This means, if user does not interact with his Google Colab notebook for more than 90 minutes,
                    its instance is automatically terminated. Also, maximum lifetime of a Colab instance is 12 hours.
@@ -201,11 +201,11 @@
 		}setInterval(ClickConnect,60000)
   	 ```
    
-### :star:  Markdown
+* **Markdown:**
    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
    - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
   
-### :star:  Git
+* **Git:**
    - [Installation](https://git-scm.com/downloads)
    - [Documentation](https://git-scm.com/doc)
    - [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
@@ -213,17 +213,16 @@
    - Videos (Persian): [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi
    - Videos (English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
    
-### :star:  Books
+* **Books:**
    - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
    - [Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow 2](https://github.com/ageron/handson-ml2) by Aurélien Geron
 
-### :star: Other good resources
+* **Other good resources:**
+	- Free online ebook: [Forecasting: principles and practice](https://otexts.com/fpp2/) by Rob J Hyndman, and George Athanasopoulos
+	- Brief visual explanations of machine learning concepts with diagrams: [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+	- Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
 
-- Free online ebook: [Forecasting: principles and practice](https://otexts.com/fpp2/) by Rob J Hyndman, and George Athanasopoulos
-- Brief visual explanations of machine learning concepts with diagrams: [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-- Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
-
-### :star:  Other useful links
+* **Other useful links:**
 
    - GitHub Repository: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
    - GitHub Repository: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
