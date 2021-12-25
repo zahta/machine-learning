@@ -43,7 +43,38 @@
 * **PCA and SVD:**
 
     - [Some PCA and SVD tasks](https://github.com/zahta/path2ml/tree/master/Projects_Exercises/PCA_SVD)
-    
+
+# :pencil2: Important Concepts
+
+* **Train, Validation and Test Sets in Machine Learning:**
+	- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
+	- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
+
+* **Algorithms and Models in Machine Learning:**
+	- [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.) by Jason Brownlee
+
+* **Evaluation Metrics or Loss Functions for Regression:**
+	-[Evaluation Metrics for Regression models- MAE Vs MSE Vs RMSE vs RMSLE](https://akhilendra.com/evaluation-metrics-regression-mae-mse-rmse-rmsle/#comments) by Akhilendra
+
+* **Datasets and Projects in Machine Learning:**
+   - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
+   - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
+   - [5 Data Science Projects That Will Get You Hired in 2020](https://www.dataoptimal.com/data-science-projects-2018/)
+   - [5 free resources every data scientist should start using today](https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/) by Yitaek Hwang
+
+* **Good Resources to Find Datasets:**
+   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+   - [Kaggle](https://www.kaggle.com/datasets)
+   - [Elite data science](https://elitedatascience.com/datasets)
+   - [Dataset search](https://datasetsearch.research.google.com/)
+
+* **Some Useful Blogs:**
+   - [Seaborn Heatmaps: 13 Ways to Customize Correlation Matrix Visualizations](https://heartbeat.fritz.ai/seaborn-heatmaps-13-ways-to-customize-correlation-matrix-visualizations-f1c49c816f07) by Okoh Anita
+   - [Breaking the curse of small datasets in Machine Learning: Part 1](https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d) by Jyoti Prakash Maheswari
+   - [Breaking the curse of small datasets in Machine Learning: Part 2](https://towardsdatascience.com/breaking-the-curse-of-small-data-sets-in-machine-learning-part-2-894aa45277f4) by Jyoti Prakash Maheswari
+   - [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/)
+
+
 # :pencil2: Notes and Experiences
 
 ### :star:  Anaconda
@@ -197,29 +228,4 @@
    - GitHub Repository: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
    - GitHub Repository: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
    	
-### :star:  Good resources for finding datasets
-
-   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-   - [Kaggle](https://www.kaggle.com/datasets)
-   - [Elite data science](https://elitedatascience.com/datasets)
-   - [Dataset search](https://datasetsearch.research.google.com/)
-   
-### :star:  Some interesting blog posts
-
-   - [20 Best Machine Learning Books for Beginner & Experts in 2020](https://hackr.io/blog/best-machine-learning-books)
-   - [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.)
-   - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
-   - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
-   - [5 Data Science Projects That Will Get You Hired in 2020](https://www.dataoptimal.com/data-science-projects-2018/)
-   - [5 free resources every data scientist should start using today](https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/) by Yitaek Hwang
-   - [Seaborn Heatmaps: 13 Ways to Customize Correlation Matrix Visualizations](https://heartbeat.fritz.ai/seaborn-heatmaps-13-ways-to-customize-correlation-matrix-visualizations-f1c49c816f07) by Okoh Anita
-   - [Breaking the curse of small datasets in Machine Learning: Part 1](https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d) by Jyoti Prakash Maheswari
-   - [Breaking the curse of small datasets in Machine Learning: Part 2](https://towardsdatascience.com/breaking-the-curse-of-small-data-sets-in-machine-learning-part-2-894aa45277f4) by Jyoti Prakash Maheswari
-   - [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/)
-
-   - Train, Validation and Test Sets in Machine Learning:
-   
- 		- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
-   		- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
-   
    
