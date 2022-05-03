@@ -56,9 +56,11 @@
 
 
 * **Hyperparameter Optimization:**
-   	- Blogs
-   		- 
-   	- Python Libraries
+   	
+	- Blogs
+   		- [Hyperparameter Optimization for Machine Learning Models](https://www.kdnuggets.com/2020/05/hyperparameter-optimization-machine-learning-models.html#) by Nagesh Singh Chauhan
+   		
+   	- Best Tools
    				
 * **Markdown:**
    	- Docs
