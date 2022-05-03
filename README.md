@@ -2,7 +2,7 @@
 ---
 | :four_leaf_clover:   My Path to Machine Learning :four_leaf_clover:                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| :bulb: *Do not follow where the path may lead. Go instead where there is no path and  leave  a trail. `Ralph Waldo Emerson`*                                                                                                                                                          |
+|        :bulb: *Do not follow where the path may lead. Go instead where there is no path and  leave  a trail. `Ralph Waldo Emerson`*                                                                                                                                                          |
 
 ---
 | [What Is Machine Learning?](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch01.html)                                                                                                                                               |
@@ -11,7 +11,63 @@
 | :blue_book: A slightly more general definition: Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed (Arthur Samuel-1959)                                                              |
 | :orange_book: A more engineering-oriented one:  A computer program is said to learn from experience E  with respect to some task T  and some performance measure  P, if its performance on  T, as measured by  P, improves with experience  E (Tom Mitchell-1997) |
 
-# :pencil2: Projects and Exercises
+## :pencil2: Important Concepts
+
+* **Train, Validation and Test Sets in Machine Learning:**
+	- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
+	- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
+
+* **Algorithms and Models in Machine Learning:**
+	- [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.) by Jason Brownlee
+
+* **Evaluation Metrics or Loss Functions for Regression:**
+	- [Evaluation Metrics for Regression models- MAE Vs MSE Vs RMSE vs RMSLE](https://akhilendra.com/evaluation-metrics-regression-mae-mse-rmse-rmsle/#comments) by Akhilendra
+	
+* **Markdown:**
+   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
+   - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
+  
+* **Git:**
+   - [Installation](https://git-scm.com/downloads)
+   - [Documentation](https://git-scm.com/doc)
+   - [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
+   - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+   - Videos (Persian): [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi
+   - Videos (English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
+   
+* **Books:**
+   - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
+   - [Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow 2](https://github.com/ageron/handson-ml2) by Aurélien Geron
+
+* **Other good resources:**
+	- Free online ebook: [Forecasting: principles and practice](https://otexts.com/fpp2/) by Rob J Hyndman, and George Athanasopoulos
+	- Brief visual explanations of machine learning concepts with diagrams: [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+	- Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
+
+* **Other useful links:**
+
+   - GitHub Repository: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
+   - GitHub Repository: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
+ 
+* **Datasets and Projects in Machine Learning:**
+   - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
+   - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
+   - [5 Data Science Projects That Will Get You Hired in 2020](https://www.dataoptimal.com/data-science-projects-2018/)
+   - [5 free resources every data scientist should start using today](https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/) by Yitaek Hwang
+
+* **Good Resources to Find Datasets:**
+   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+   - [Kaggle](https://www.kaggle.com/datasets)
+   - [Elite data science](https://elitedatascience.com/datasets)
+   - [Dataset search](https://datasetsearch.research.google.com/)
+
+* **Some Useful Blogs:**
+   - [Seaborn Heatmaps: 13 Ways to Customize Correlation Matrix Visualizations](https://heartbeat.fritz.ai/seaborn-heatmaps-13-ways-to-customize-correlation-matrix-visualizations-f1c49c816f07) by Okoh Anita
+   - [Breaking the curse of small datasets in Machine Learning: Part 1](https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d) by Jyoti Prakash Maheswari
+   - [Breaking the curse of small datasets in Machine Learning: Part 2](https://towardsdatascience.com/breaking-the-curse-of-small-data-sets-in-machine-learning-part-2-894aa45277f4) by Jyoti Prakash Maheswari
+   - [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/)
+   
+## :pencil2: Projects and Exercises
 
 * **Numpy, Pandas, and Matplotlib:**
 
@@ -44,38 +100,7 @@
 
     - [Some PCA and SVD tasks](https://github.com/zahta/path2ml/tree/master/Projects_Exercises/PCA_SVD)
 
-# :pencil2: Important Concepts
-
-* **Train, Validation and Test Sets in Machine Learning:**
-	- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
-	- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
-
-* **Algorithms and Models in Machine Learning:**
-	- [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.) by Jason Brownlee
-
-* **Evaluation Metrics or Loss Functions for Regression:**
-	- [Evaluation Metrics for Regression models- MAE Vs MSE Vs RMSE vs RMSLE](https://akhilendra.com/evaluation-metrics-regression-mae-mse-rmse-rmsle/#comments) by Akhilendra
-
-* **Datasets and Projects in Machine Learning:**
-   - [Famous Machine Learning Datasets You Need to Know](https://medium.com/data-science-bootcamp/famous-machine-learning-datasets-you-need-to-know-dd031bf74dd) by Uniqtech
-   - [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/) by Jason Brownlee
-   - [5 Data Science Projects That Will Get You Hired in 2020](https://www.dataoptimal.com/data-science-projects-2018/)
-   - [5 free resources every data scientist should start using today](https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/) by Yitaek Hwang
-
-* **Good Resources to Find Datasets:**
-   - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-   - [Kaggle](https://www.kaggle.com/datasets)
-   - [Elite data science](https://elitedatascience.com/datasets)
-   - [Dataset search](https://datasetsearch.research.google.com/)
-
-* **Some Useful Blogs:**
-   - [Seaborn Heatmaps: 13 Ways to Customize Correlation Matrix Visualizations](https://heartbeat.fritz.ai/seaborn-heatmaps-13-ways-to-customize-correlation-matrix-visualizations-f1c49c816f07) by Okoh Anita
-   - [Breaking the curse of small datasets in Machine Learning: Part 1](https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d) by Jyoti Prakash Maheswari
-   - [Breaking the curse of small datasets in Machine Learning: Part 2](https://towardsdatascience.com/breaking-the-curse-of-small-data-sets-in-machine-learning-part-2-894aa45277f4) by Jyoti Prakash Maheswari
-   - [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/)
-
-
-# :pencil2: Notes and Experiences
+## :pencil2: Notes and Experiences
 
 * **Anaconda:**
   - [Anaconda Installation](https://docs.anaconda.com/anaconda/install/)
@@ -200,31 +225,5 @@
 		document.querySelector("colab-toolbar-button").click() 
 		}setInterval(ClickConnect,60000)
   	 ```
-   
-* **Markdown:**
-   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
-   - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
-  
-* **Git:**
-   - [Installation](https://git-scm.com/downloads)
-   - [Documentation](https://git-scm.com/doc)
-   - [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
-   - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-   - Videos (Persian): [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi
-   - Videos (English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
-   
-* **Books:**
-   - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
-   - [Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow 2](https://github.com/ageron/handson-ml2) by Aurélien Geron
-
-* **Other good resources:**
-	- Free online ebook: [Forecasting: principles and practice](https://otexts.com/fpp2/) by Rob J Hyndman, and George Athanasopoulos
-	- Brief visual explanations of machine learning concepts with diagrams: [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-	- Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
-
-* **Other useful links:**
-
-   - GitHub Repository: [Tools in Data Science](https://github.com/hhaji/Tools-in-Data-Science) by Hossein Hajiabolhassan
-   - GitHub Repository: [Applied Machine Learning](https://github.com/hhaji/Applied-Machine-Learning) by Hossein Hajiabolhassan
    	
    
