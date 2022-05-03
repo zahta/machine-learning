@@ -57,11 +57,16 @@
 
 * **Hyperparameter Optimization:**
    	
+   	- Papers
+   		- Cross Validation for Hyperparameter Tuning
+   		
+			- [Performance-Estimation Properties of Cross-Validation-Based Protocols with Simultaneous Hyper-Parameter Optimization](https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230?src=recsys) by Ioannis Tsamardinos, Amin Rakhshani and Vincenzo Lagani
+   	
+	- Best Tools
+	
 	- Blogs
    		- [Hyperparameter Optimization for Machine Learning Models](https://www.kdnuggets.com/2020/05/hyperparameter-optimization-machine-learning-models.html#) by Nagesh Singh Chauhan
-   		
-   	- Best Tools
-   				
+
 * **Markdown:**
    	- Docs
    		- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
