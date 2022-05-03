@@ -54,12 +54,12 @@
    		- [Breaking the curse of small datasets in Machine Learning: Part 2](https://towardsdatascience.com/breaking-the-curse-of-small-data-sets-in-machine-learning-part-2-894aa45277f4) by Jyoti Prakash Maheswari
    		- [Imbalanced Data : How to handle Imbalanced Classification Problems](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/)
 
+
 * **Hyperparameter Optimization:**
    	- Blogs
    		- 
-   	
-	- Python Libraries
-		
+   	- Python Libraries
+   				
 * **Markdown:**
    	- Docs
    		- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
