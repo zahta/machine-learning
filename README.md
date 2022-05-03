@@ -13,27 +13,35 @@
 
 ## :pencil2: Important Concepts
 
-* **Train, Validation and Test Sets in Machine Learning:**
-	- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
-	- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
-
 * **Algorithms and Models in Machine Learning:**
-	- [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.) by Jason Brownlee
+ 	- Blogs
+		- [Difference Between Algorithm and Model in Machine Learning](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/#:~:text=A%20model%20represents%20what%20was,structures%20required%20to%20make%20predictions.) by Jason Brownlee
 
 * **Evaluation Metrics or Loss Functions for Regression:**
-	- [Evaluation Metrics for Regression models- MAE Vs MSE Vs RMSE vs RMSLE](https://akhilendra.com/evaluation-metrics-regression-mae-mse-rmse-rmsle/#comments) by Akhilendra
+	- Blogs
+		- [Evaluation Metrics for Regression models- MAE Vs MSE Vs RMSE vs RMSLE](https://akhilendra.com/evaluation-metrics-regression-mae-mse-rmse-rmsle/#comments) by Akhilendra
+
+* **Train, Validation and Test Sets in Machine Learning:**
+	- Blogs
+		- [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) by Jason Brownlee
+		- [Why exactly using a test set for model evaluation is a bad idea?](https://datascience.stackexchange.com/a/23318/94666)
 	
 * **Markdown:**
-   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
-   - [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
+   - Docs
+   	- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
+   - Cheat Sheets
+   	- [LaTeX Math Symbols Cheat Sheet](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
   
 * **Git:**
-   - [Installation](https://git-scm.com/downloads)
-   - [Documentation](https://git-scm.com/doc)
-   - [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
-   - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-   - Videos (Persian): [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi
-   - Videos (English): GitHub Ultimate-Master Git and GitHub by Jason Taylor
+   - Docs
+   	- [Installation](https://git-scm.com/downloads)
+   	- [Documentation](https://git-scm.com/doc)
+   	- [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
+   - Cheat Sheets
+   	- [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+   - Videos
+   	- [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi (in Persian)
+   	- GitHub Ultimate-Master Git and GitHub by Jason Taylor (in English)
    
 * **Books:**
    - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
