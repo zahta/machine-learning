@@ -63,12 +63,25 @@
 			- [Performance-Estimation Properties of Cross-Validation-Based Protocols with Simultaneous Hyper-Parameter Optimization](https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230?src=recsys) by Ioannis Tsamardinos, Amin Rakhshani and Vincenzo Lagani
    	
 	- Best Tools
+		- [Ray Tune](https://docs.ray.io/en/master/tune/index.html)
+		- [Optuna](https://optuna.readthedocs.io/en/stable/)
+		- [HyperOpt](https://github.com/hyperopt/hyperopt)
+		- [Scikit-Optimize](https://scikit-optimize.github.io/stable/auto_examples/hyperparameter-optimization.html)
+		- [Microsoft’s NNI (Neural Network Intelligence)](https://en.wikipedia.org/wiki/AutoML)
+		- [Google’s Vizer](https://research.google/pubs/pub46180/)
+		- [AWS Sage Maker](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
+		- [Azure Machine Learning](https://www.sumologic.com/brief/what-is-azure/)
+		- 
+
 		- Blogs 
-			[Best Tools for Model Tuning and Hyperparameter Optimization](https://neptune.ai/blog/best-tools-for-model-tuning-and-hyperparameter-optimization) by Bunmi Akinremi
+			- [Best Tools for Model Tuning and Hyperparameter Optimization](https://neptune.ai/blog/best-tools-for-model-tuning-and-hyperparameter-optimization) by Bunmi Akinremi
+			- [Top Hyperparameter Optimisation Tools](https://analyticsindiamag.com/top-hyperparameter-optimisation-tools-neural-networks/) by Ram Sagar
+
 	- Videos and courses
 		- [Hyperparameter Optimization for Machine Learning](https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning) by Soledad Galli
 	- Blogs
 		- General Concepts and Techniques
+			- [What is the Difference Between a Parameter and a Hyperparameter?](https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/#:~:text=In%20summary%2C%20model%20parameters%20are,be%20set%20manually%20and%20tuned.) by Jason Brownlee
 			- [Hyperparameter Tuning in Python: a Complete Guide](https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide) by Shahul ES and Aayush Bajaj
 			- [Hyperparameter Optimization for Machine Learning Models](https://www.kdnuggets.com/2020/05/hyperparameter-optimization-machine-learning-models.html#) by Nagesh Singh Chauhan
 			- [Practical Hyperparameter Optimization](https://www.kdnuggets.com/2020/02/practical-hyperparameter-optimization.html) by Pier Paolo Ippolito
