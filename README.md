@@ -1,6 +1,8 @@
 
 ---
-| :four_leaf_clover:   My Path to Machine Learning :four_leaf_clover:                                                                                                                                            |
+- [:pencil2: Machine Learning Important Concepts](#pencil2-machine-learning-important-concepts)
+- [:pencil2: Projects and Exercises](#pencil2-projects-and-exercises)
+- [:pencil2: Notes and Experiences](#pencil2-notes-and-experiences)| :four_leaf_clover:   My Path to Machine Learning :four_leaf_clover:                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        :bulb: *Do not follow where the path may lead. Go instead where there is no path and  leave  a trail. `Ralph Waldo Emerson`*                                                                                                                                                          |
 
