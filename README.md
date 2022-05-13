@@ -1,8 +1,6 @@
 
 ---
-- [:pencil2: Machine Learning Important Concepts](#pencil2-machine-learning-important-concepts)
-- [:pencil2: Projects and Exercises](#pencil2-projects-and-exercises)
-- [:pencil2: Notes and Experiences](#pencil2-notes-and-experiences)| :four_leaf_clover:   My Path to Machine Learning :four_leaf_clover:                                                                                                                                            |
+| :four_leaf_clover:   My Path to Machine Learning :four_leaf_clover:                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        :bulb: *Do not follow where the path may lead. Go instead where there is no path and  leave  a trail. `Ralph Waldo Emerson`*                                                                                                                                                          |
 
@@ -12,6 +10,12 @@
 | :green_book: Machine Learning is the science (and art) of programming computers so they can learn from data.                                                                                                                                                          |
 | :blue_book: A slightly more general definition: Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed (Arthur Samuel-1959)                                                              |
 | :orange_book: A more engineering-oriented one:  A computer program is said to learn from experience E  with respect to some task T  and some performance measure  P, if its performance on  T, as measured by  P, improves with experience  E (Tom Mitchell-1997) |
+
+
+# Table of contents
+- [Machine Learning Important Concepts](#pencil2-machine-learning-important-concepts)
+- [Projects and Exercises](#pencil2-projects-and-exercises)
+- [Notes and Experiences](#pencil2-notes-and-experiences)
 
 ## :pencil2: Machine Learning Important Concepts
 
