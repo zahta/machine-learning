@@ -63,6 +63,8 @@
 			- [Performance-Estimation Properties of Cross-Validation-Based Protocols with Simultaneous Hyper-Parameter Optimization](https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230?src=recsys) by Ioannis Tsamardinos, Amin Rakhshani and Vincenzo Lagani
    	
 	- Best Tools
+		- Blogs 
+			[Best Tools for Model Tuning and Hyperparameter Optimization](https://neptune.ai/blog/best-tools-for-model-tuning-and-hyperparameter-optimization) by Bunmi Akinremi
 	
 	- Blogs
 		- General Concepts and Techniques
@@ -71,12 +73,15 @@
 			- [Practical Hyperparameter Optimization](https://www.kdnuggets.com/2020/02/practical-hyperparameter-optimization.html) by Pier Paolo Ippolito
 			- [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/) by Davis David
 			- [Hyper-parameter optimization algorithms: a short review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903) by Aloïs Bissuel
-			- Hyperparameter Tuning in Deep learning
+		- Hyperparameter Tuning in Deep learning
 				- [How To Make Deep Learning Models That Don’t Suck](https://nanonets.com/blog/hyperparameter-optimization/) by Ajay Uppili Arasanipalai
 				- [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More (deeplearning.ai Course #2)](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/) by PulkitS 
 		- Random Search VS Grid Search
 			- [Why Is Random Search Better Than Grid Search For Machine Learning](https://analyticsindiamag.com/why-is-random-search-better-than-grid-search-for-machine-learning/#:~:text=Random%20search%20is%20a%20technique,yields%20high%20variance%20during%20computing.) by Kishan Maladkar
-			
+		- Bayesian Optimization	
+			- [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/) by Martin Krasser
+			- [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/#:~:text=with%20sample%20code).-,What%20Is%20Bayesian%20Optimization,and%2For%20expensive%20to%20evaluate.) by Jason Brownlee
+			- [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/) by Katherine Bailey
 			
 * **Markdown:**
    	- Docs
