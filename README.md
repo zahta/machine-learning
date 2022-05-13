@@ -40,6 +40,7 @@
 			- [Hyperparameter Tuning in Deep learning](#hyperparameter-tuning-in-deep-learning)
 			- [Random Search VS Grid Search](#random-search-vs-grid-search)
 			- [Bayesian Optimization](#bayesian-optimization)
+			- [Cross Validation](#cross-validation)
 			- [Nested Cross Validation](#nested-cross-validation)
 	- [Markdown](#markdown)
 		- [Docs](#docs)
@@ -143,9 +144,14 @@
 - [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/) by Martin Krasser
 - [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/#:~:text=with%20sample%20code.-,What%20Is%20Bayesian%20Optimization,and%2For%20expensive%20to%20evaluate.) by Jason Brownlee
 - [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/) by Katherine Bailey
+##### Cross Validation
+- [Cross-Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng
+- [Cross Validation With Parameter Tuning Using Grid Search](https://chrisalbon.com/code/machine_learning/model_evaluation/cross_validation_parameter_tuning_grid_search/) by Chris Albon
+
 ##### Nested Cross Validation
 - [Nested Cross-Validation — Hyperparameter Optimization and Model Selection](https://towardsdatascience.com/nested-cross-validation-hyperparameter-optimization-and-model-selection-5885d84acda#:~:text=Nested%20Cross-Validation%20Nested-,model%20and%20its%20hyperparameter%20search.) by Satyam Kumar
 - [Nested versus non-nested cross-validation](https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html) from Scikit-Learn 
+- [Nested cross validation explained](https://weina.me/nested-cross-validation/) by Weina Jin
 ### Markdown
 #### Docs
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
