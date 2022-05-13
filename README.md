@@ -65,8 +65,19 @@
 	- Best Tools
 	
 	- Blogs
-   		- [Hyperparameter Optimization for Machine Learning Models](https://www.kdnuggets.com/2020/05/hyperparameter-optimization-machine-learning-models.html#) by Nagesh Singh Chauhan
-
+		- General Concepts and Techniques
+			- [Hyperparameter Tuning in Python: a Complete Guide](https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide) by Shahul ES and Aayush Bajaj
+			- [Hyperparameter Optimization for Machine Learning Models](https://www.kdnuggets.com/2020/05/hyperparameter-optimization-machine-learning-models.html#) by Nagesh Singh Chauhan
+			- [Practical Hyperparameter Optimization](https://www.kdnuggets.com/2020/02/practical-hyperparameter-optimization.html) by Pier Paolo Ippolito
+			- [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/) by Davis David
+			- [Hyper-parameter optimization algorithms: a short review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903) by Aloïs Bissuel
+			- Hyperparameter Tuning in Deep learning
+				- [How To Make Deep Learning Models That Don’t Suck](https://nanonets.com/blog/hyperparameter-optimization/) by Ajay Uppili Arasanipalai
+				- [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More (deeplearning.ai Course #2)](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/) by PulkitS 
+		- Random Search VS Grid Search
+			- [Why Is Random Search Better Than Grid Search For Machine Learning](https://analyticsindiamag.com/why-is-random-search-better-than-grid-search-for-machine-learning/#:~:text=Random%20search%20is%20a%20technique,yields%20high%20variance%20during%20computing.) by Kishan Maladkar
+			
+			
 * **Markdown:**
    	- Docs
    		- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples) 
