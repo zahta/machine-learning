@@ -80,7 +80,7 @@
 			- [Why Is Random Search Better Than Grid Search For Machine Learning](https://analyticsindiamag.com/why-is-random-search-better-than-grid-search-for-machine-learning/#:~:text=Random%20search%20is%20a%20technique,yields%20high%20variance%20during%20computing.) by Kishan Maladkar
 		- Bayesian Optimization	
 			- [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/) by Martin Krasser
-			- [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/#:~:text=with%20sample%20code).-,What%20Is%20Bayesian%20Optimization,and%2For%20expensive%20to%20evaluate.) by Jason Brownlee
+			- [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/#:~:text=with%20sample%20code.-,What%20Is%20Bayesian%20Optimization,and%2For%20expensive%20to%20evaluate.) by Jason Brownlee
 			- [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/) by Katherine Bailey
 			
 * **Markdown:**
