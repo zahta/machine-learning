@@ -40,6 +40,7 @@
 			- [Hyperparameter Tuning in Deep learning](#hyperparameter-tuning-in-deep-learning)
 			- [Random Search VS Grid Search](#random-search-vs-grid-search)
 			- [Bayesian Optimization](#bayesian-optimization)
+			- [Nested Cross Validation](#nested-cross-validation)
 	- [Markdown](#markdown)
 		- [Docs](#docs)
 		- [Cheat Sheets](#cheat-sheets)
