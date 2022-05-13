@@ -65,7 +65,8 @@
 	- Best Tools
 		- Blogs 
 			[Best Tools for Model Tuning and Hyperparameter Optimization](https://neptune.ai/blog/best-tools-for-model-tuning-and-hyperparameter-optimization) by Bunmi Akinremi
-	
+	- Videos and courses
+		- [Hyperparameter Optimization for Machine Learning](https://www.courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning) by Soledad Galli
 	- Blogs
 		- General Concepts and Techniques
 			- [Hyperparameter Tuning in Python: a Complete Guide](https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide) by Shahul ES and Aayush Bajaj
@@ -96,7 +97,7 @@
    		- [Git Handbook (10 minute read)](https://guides.github.com/introduction/git-handbook/)
    	- Cheat Sheets
    		- [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-   	- Videos
+   	- Videos and courses
    		- [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi (in Persian)
    		- GitHub Ultimate-Master Git and GitHub by Jason Taylor (in English)
 
