@@ -71,7 +71,6 @@
 		- [Google’s Vizer](https://research.google/pubs/pub46180/)
 		- [AWS Sage Maker](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
 		- [Azure Machine Learning](https://www.sumologic.com/brief/what-is-azure/)
-		- 
 
 		- Blogs 
 			- [Best Tools for Model Tuning and Hyperparameter Optimization](https://neptune.ai/blog/best-tools-for-model-tuning-and-hyperparameter-optimization) by Bunmi Akinremi
@@ -88,8 +87,8 @@
 			- [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/) by Davis David
 			- [Hyper-parameter optimization algorithms: a short review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903) by Aloïs Bissuel
 		- Hyperparameter Tuning in Deep learning
-				- [How To Make Deep Learning Models That Don’t Suck](https://nanonets.com/blog/hyperparameter-optimization/) by Ajay Uppili Arasanipalai
-				- [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More (deeplearning.ai Course #2)](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/) by PulkitS 
+			- [How To Make Deep Learning Models That Don’t Suck](https://nanonets.com/blog/hyperparameter-optimization/) by Ajay Uppili Arasanipalai
+			- [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More (deeplearning.ai Course #2)](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/) by PulkitS 
 		- Random Search VS Grid Search
 			- [Why Is Random Search Better Than Grid Search For Machine Learning](https://analyticsindiamag.com/why-is-random-search-better-than-grid-search-for-machine-learning/#:~:text=Random%20search%20is%20a%20technique,yields%20high%20variance%20during%20computing.) by Kishan Maladkar
 		- Bayesian Optimization	
