@@ -135,6 +135,7 @@
 - [Practical Hyperparameter Optimization](https://www.kdnuggets.com/2020/02/practical-hyperparameter-optimization.html) by Pier Paolo Ippolito
 - [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/) by Davis David
 - [Hyper-parameter optimization algorithms: a short review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903) by Aloïs Bissuel
+- [How to Evaluate Machine Learning Models: Hyperparameter Tuning](https://web.archive.org/web/20160701182750/http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning) by Alice Zheng
 ##### Hyperparameter Tuning in Deep learning
 - [How To Make Deep Learning Models That Don’t Suck](https://nanonets.com/blog/hyperparameter-optimization/) by Ajay Uppili Arasanipalai
 - [Improving Neural Networks – Hyperparameter Tuning, Regularization, and More (deeplearning.ai Course #2)](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/) by PulkitS 
