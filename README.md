@@ -29,6 +29,8 @@
 		- [Datasets Resources](#datasets-resources)
 		- [Blogs](#blogs-4)
 	- [Hyperparameter Optimization](#hyperparameter-optimization)
+		- [Slides](#slides)
+			- [Hyperparameter Optimization for Machine Learning](#hyperparameter-optimization-for-machine-learning)
 		- [Papers](#papers)
 			- [Cross Validation for Hyperparameter Tuning](#cross-validation-for-hyperparameter-tuning)
 		- [Best Tools for Hyperparameter Optimization](#best-tools-for-hyperparameter-optimization)
@@ -107,6 +109,7 @@
 ### Hyperparameter Optimization
 
 #### Slides
+##### Hyperparameter Optimization for Machine Learning
 - [Hyperparameter Optimization for Machine Learning](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_optimization_zahra_taheri.pdf) by Zahra Taheri
 #### Papers
 ##### Cross Validation for Hyperparameter Tuning
