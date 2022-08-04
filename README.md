@@ -105,7 +105,9 @@
 
 
 ### Hyperparameter Optimization
-   	
+
+#### Slides
+- [Hyperparameter Optimization for Machine Learning](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_optimization_zahra_taheri.pdf) by Zahra Taheri
 #### Papers
 ##### Cross Validation for Hyperparameter Tuning
 - [Performance-Estimation Properties of Cross-Validation-Based Protocols with Simultaneous Hyper-Parameter Optimization](https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230?src=recsys) by Ioannis Tsamardinos, Amin Rakhshani and Vincenzo Lagani
