@@ -28,9 +28,17 @@
 	- [Datasets and Projects](#datasets-and-projects)
 		- [Datasets Resources](#datasets-resources)
 		- [Blogs](#blogs-4)
+		
 	- [Hyperparameter Optimization](#hyperparameter-optimization)
+	
 		- [Slides](#slides)
+			
 			- [Hyperparameter Optimization for Machine Learning](#hyperparameter-optimization-for-machine-learning)
+			
+		- [Tutorials](#tutorials)
+		    	
+			- [Hyperparameter Optimization with Pytorch and Ray Tune](#hyperparameter-optimization-with-pytorch-and-ray-tune)
+			
 		- [Papers](#papers)
 			- [Cross Validation for Hyperparameter Tuning](#cross-validation-for-hyperparameter-tuning)
 		- [Best Tools for Hyperparameter Optimization](#best-tools-for-hyperparameter-optimization)
@@ -111,6 +119,10 @@
 #### Slides
 ##### Hyperparameter Optimization for Machine Learning
 - [Hyperparameter Optimization for Machine Learning](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_optimization_zahra_taheri.pdf) by Zahra Taheri
+#### Tutorials
+##### Hyperparameter Optimization with Pytorch and Ray Tune
+- [A Classification Task](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_tuning_pytorch_ray_tune_classification.ipynb) by Zahra Taheri
+- [A Regression Task](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_tuning_pytorch_ray_tune_regression.ipynb) by Zahra Taheri
 #### Papers
 ##### Cross Validation for Hyperparameter Tuning
 - [Performance-Estimation Properties of Cross-Validation-Based Protocols with Simultaneous Hyper-Parameter Optimization](https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230?src=recsys) by Ioannis Tsamardinos, Amin Rakhshani and Vincenzo Lagani
