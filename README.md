@@ -185,7 +185,6 @@
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 #### Videos and courses
 - [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi (in Persian)
-- GitHub Ultimate-Master Git and GitHub by Jason Taylor (in English)
 
 ## :pencil2: Projects and Exercises
 
